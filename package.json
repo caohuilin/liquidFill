@@ -51,5 +51,10 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "echarts": "^4.8.0",
+    "echarts-for-react": "^2.0.16",
+    "echarts-liquidfill": "^2.0.6"
+  }
 }
