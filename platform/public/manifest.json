@@ -1,0 +1,8 @@
+{
+  "short_name": "pandora-visualization-app-scaffold",
+  "name": "pandora-visualization-app-scaffold",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

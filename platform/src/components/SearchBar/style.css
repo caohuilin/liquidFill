@@ -1,0 +1,44 @@
+.searchbar-card {
+  background-color: transparent !important;
+}
+.searchbar-card .ant-card-body {
+  padding: 12px 10px !important;
+}
+.searchbar {
+  display: flex;
+}
+
+.searchbar .ant-popover-inner-content {
+  padding: 0;
+  width: 400px;
+}
+
+.searchbar-datetimepicker {
+  width: 120px;
+}
+
+.searchbar-datetimepicker .ant-input {
+  height: 42px;
+}
+
+.searchbar-search-input {
+  flex: 1;
+  line-height: 32px !important;
+}
+
+.pandora-sdk-datetime-pick-input .ant-input {
+  cursor: pointer !important;
+}
+
+.searchbar-search-button {
+  height: 42px !important;
+  width: 80px;
+  background: #2c6dd2 !important;
+  color: #ffffff !important;
+}
+
+.searchbar-error {
+  color: #f5222d;
+  font-size: 12px;
+  margin-top: 10px;
+}

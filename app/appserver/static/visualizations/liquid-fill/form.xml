@@ -1,0 +1,17 @@
+<form>
+  <collapse defaultActiveKey="none" accordion="true">
+    <panel panelKey="attr1" title="属性1">
+      <input type="text" field="attr1">
+        <label>attr1 label</label>
+        <initial-value>value</initial-value>
+      </input>
+      <input type="dropdown" field="attr2">
+        <label>选择一个选项</label>
+        <initial-value>one</initial-value>
+        <choice value="one">选项一</choice>
+        <choice value="two">选项二</choice>
+        <choice value="third">选项三</choice>
+      </input>
+    </panel>
+  </collapse>
+</form>

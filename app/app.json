@@ -1,0 +1,14 @@
+{
+  "name": "liquidFill",
+  "title": "水球",
+  "description": "水球类型图表",
+  "categories": [],
+  "version": "1.0.0",
+  "platformVersion": ">=0.6.1",
+  "authors": [],
+  "type": "visualization",
+  "icon": "static/icon.png",
+  "docsLink": "https://developer.qiniu.com/express",
+  "contents":[],
+  "preview": []
+}
